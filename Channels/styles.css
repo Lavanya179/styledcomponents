@@ -1,0 +1,16 @@
+
+  
+  .red-dot-hide {
+    border-radius: 8px;
+    height: 16px;
+    width: 16px;
+    margin-right: 5px;
+  }
+  
+  .red-dot-show {
+    background: red;
+    border-radius: 8px;
+    height: 16px;
+    width: 16px;
+    margin-right: 5px;
+  }
